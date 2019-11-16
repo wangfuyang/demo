@@ -1,0 +1,13 @@
+E:\vstudio\scshi\ListView\bin\Debug\ListView.exe.config
+E:\vstudio\scshi\ListView\bin\Debug\ListView.exe
+E:\vstudio\scshi\ListView\bin\Debug\ListView.pdb
+E:\vstudio\scshi\ListView\bin\Debug\MySql.Data.dll
+E:\vstudio\scshi\ListView\bin\Debug\MySql.Data.xml
+E:\vstudio\scshi\ListView\obj\Debug\ListView.addForm.resources
+E:\vstudio\scshi\ListView\obj\Debug\ListView.Form1.resources
+E:\vstudio\scshi\ListView\obj\Debug\ListView.Properties.Resources.resources
+E:\vstudio\scshi\ListView\obj\Debug\ListView.csproj.GenerateResource.Cache
+E:\vstudio\scshi\ListView\obj\Debug\ListView.exe
+E:\vstudio\scshi\ListView\obj\Debug\ListView.pdb
+E:\vstudio\scshi\ListView\obj\Debug\ListView.csprojResolveAssemblyReference.cache
+E:\vstudio\scshi\ListView\obj\Debug\ListView.editForm.resources

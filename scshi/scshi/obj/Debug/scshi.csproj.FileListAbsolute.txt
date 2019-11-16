@@ -1,0 +1,12 @@
+E:\vstudio\scshi\scshi\bin\Debug\scshi.exe.config
+E:\vstudio\scshi\scshi\bin\Debug\scshi.exe
+E:\vstudio\scshi\scshi\bin\Debug\scshi.pdb
+E:\vstudio\scshi\scshi\bin\Debug\MySql.Data.dll
+E:\vstudio\scshi\scshi\bin\Debug\MySql.Data.xml
+E:\vstudio\scshi\scshi\obj\Debug\scshi.add.resources
+E:\vstudio\scshi\scshi\obj\Debug\scshi.Properties.Resources.resources
+E:\vstudio\scshi\scshi\obj\Debug\scshi.showForm.resources
+E:\vstudio\scshi\scshi\obj\Debug\scshi.edit.resources
+E:\vstudio\scshi\scshi\obj\Debug\scshi.csproj.GenerateResource.Cache
+E:\vstudio\scshi\scshi\obj\Debug\scshi.exe
+E:\vstudio\scshi\scshi\obj\Debug\scshi.pdb

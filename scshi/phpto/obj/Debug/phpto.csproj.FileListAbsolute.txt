@@ -1,0 +1,11 @@
+E:\vstudio\scshi\phpto\bin\Debug\phpto.exe.config
+E:\vstudio\scshi\phpto\bin\Debug\phpto.exe
+E:\vstudio\scshi\phpto\bin\Debug\phpto.pdb
+E:\vstudio\scshi\phpto\obj\Debug\phpto.Form1.resources
+E:\vstudio\scshi\phpto\obj\Debug\phpto.Properties.Resources.resources
+E:\vstudio\scshi\phpto\obj\Debug\phpto.csproj.GenerateResource.Cache
+E:\vstudio\scshi\phpto\obj\Debug\phpto.exe
+E:\vstudio\scshi\phpto\obj\Debug\phpto.pdb
+E:\vstudio\scshi\phpto\bin\Debug\MySql.Data.dll
+E:\vstudio\scshi\phpto\bin\Debug\MySql.Data.xml
+E:\vstudio\scshi\phpto\obj\Debug\phpto.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\vstudio\scshi\flowermanage\bin\Debug\flowermanage.exe.config
+E:\vstudio\scshi\flowermanage\bin\Debug\flowermanage.exe
+E:\vstudio\scshi\flowermanage\bin\Debug\flowermanage.pdb
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.csprojResolveAssemblyReference.cache
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.Properties.Resources.resources
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.csproj.GenerateResource.Cache
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.exe
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.pdb
+E:\vstudio\scshi\flowermanage\bin\Debug\MySql.Data.dll
+E:\vstudio\scshi\flowermanage\bin\Debug\MySql.Data.xml
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.addForm.resources
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.frmMain.resources
+E:\vstudio\scshi\flowermanage\obj\Debug\flowermanage.showFlowerForm.resources
